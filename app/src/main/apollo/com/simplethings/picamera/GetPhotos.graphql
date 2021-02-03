@@ -1,0 +1,5 @@
+query GetPhotos{
+    photos {
+        id, name, fileSize, path
+    }
+}
