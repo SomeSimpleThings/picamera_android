@@ -1,2 +1,2 @@
 # picamera_android
-uses grapql api
+uses graphql api
